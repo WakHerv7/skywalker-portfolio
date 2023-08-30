@@ -1,0 +1,10 @@
+.two-arrows {
+    display: inline-block;
+    max-width: 771px;
+    width: 100%;
+    margin-top: 15px;
+    border-radius: 20px;
+    vertical-align: middle;
+    /* filter: sepia(100%) hue-rotate(190deg) saturate(900%); */
+    filter: sepia(900%) hue-rotate(81deg) saturate(10000%) brightness(70%);
+}
